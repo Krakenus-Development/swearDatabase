@@ -1,2 +1,2 @@
 # swearDatabase
-JSON DB of swear words, and bypasses (wip)
+powered by websites lol
